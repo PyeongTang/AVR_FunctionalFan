@@ -1,3 +1,3 @@
 # AVR_FunctionalFan
 
-Project of Functional Fan, on the Harman Academy Basys3 session
+Project of Functional Fan, on the Harman Academy AVR session
